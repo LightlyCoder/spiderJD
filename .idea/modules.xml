@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../lg_spider/lg_spider.iml" filepath="$PROJECT_DIR$/../lg_spider/lg_spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spiderJD.iml" filepath="$PROJECT_DIR$/spiderJD.iml" />
+    </modules>
+  </component>
+</project>
